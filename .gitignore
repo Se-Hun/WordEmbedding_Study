@@ -7,3 +7,6 @@ data/
 
 # Ignore .ipynb_checkpoints
 .ipynb_checkpoints/
+
+# Ignore .cache
+.vector_cache/
