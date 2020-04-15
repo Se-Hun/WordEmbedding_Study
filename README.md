@@ -10,6 +10,9 @@ torchtext는 torchvision과 달리 기본 PyTorch 설치에 빠져 있다.
 
 **conda 이용시** : `conda install -c pytorch torchtext`
 
+### No module named 'sentencepiece' 에러 발생시
+`pip install sentencepiece`를 실행한다.
+
 ## 사용한 데이터셋
 IMDB : 영화 후기 데이터셋
 
