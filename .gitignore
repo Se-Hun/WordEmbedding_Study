@@ -1,5 +1,6 @@
 # Ignore Data Folder
 data/
+.data/
 
 # Ignore .idea Folder
 .idea/
